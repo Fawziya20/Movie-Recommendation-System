@@ -3,7 +3,7 @@
 
 ### Introduction
 Our task is to design a datawarehouse with the sources of data which may include from external sources such as movie ratings from websites like IMDb as well as user profiles and viewing history.
-Using ETL process(Extract,Transform and Load) the data from the various sources are stored into the data warehouse.
+Using ETL process(Extract,Transform and Load) the data from the various sources are stored into the data warehouse.The analysed data can be uploaded into the s3 bucket and Storing data in S3 also enables you to take advantage of other AWS services, such as  Amazon Glue, which provide powerful tools for querying and transforming data stored in S3. Overall, using S3 as a data storage solution offers many benefits and can help you achieve scalable and cost-effective data storage for your movie recommendation system.
 Python has many libraries for creating visulaizations such as Matplotlib,Plotly or Seaborn.
 
 ### Dataset
