@@ -29,5 +29,9 @@ Python has many libraries for creating visulaizations such as Matplotlib,Plotly 
 
 ![image](https://user-images.githubusercontent.com/75235022/232246253-d7e1328d-40e7-4e8c-be0e-8a1076778310.png)
 
+### Result:
+Thus, Python can help provide valuable insights and improve the performance and accuracy of a movie recommendation system.
+
+
 
 
